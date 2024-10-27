@@ -22,7 +22,7 @@ A curated collection of high-quality software engineering resources focusing on 
 - [Books & Long Reads](#books--long-reads)
 
 
-## Python Deep Dive
+## Python
 
 ### Python Internals Series
 A comprehensive series explaining Python's internal workings:
@@ -48,6 +48,18 @@ A comprehensive series explaining Python's internal workings:
 - [Slots Inheritance](https://stackoverflow.com/questions/1816483/how-does-inheritance-of-slots-in-subclasses-actually-work)
 - [Classic Coroutines](https://www.fluentpython.com/extra/classic-coroutines/)
 - [Preventing SQL Injection with Python](https://realpython.com/prevent-python-sql-injection/#using-query-parameters-in-sql)
+
+### Python Books
+- [Cosmic Python - DDD in Practice](https://www.cosmicpython.com/book/preface.html)
+
+## Go
+
+### Articles
+- [Circuit Breaker Pattern in Go](https://rednafi.com/go/circuit_breaker/)
+- [Interface Guards in Go](https://rednafi.com/go/interface_guards/)
+
+### Go Books
+- [The GO Programming Language](http://www.cs.uniroma2.it/upload/2017/TSC/The%20Go%20Programming%20Language.pdf)
 
 ## Testing
 - [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
@@ -95,8 +107,6 @@ A comprehensive series explaining Python's internal workings:
 
 ### Best Practices
 - [Data Structures & Algorithms in Practice](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
-- [Circuit Breaker Pattern in Go](https://rednafi.com/go/circuit_breaker/)
-- [Interface Guards in Go](https://rednafi.com/go/interface_guards/)
 - [Exponential Backoff And Jitter](https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/)
 - [Retry Throttling](https://aws.amazon.com/blogs/developer/introducing-retry-throttling/)
 
@@ -142,10 +152,10 @@ A comprehensive series explaining Python's internal workings:
 - [Graph Patterns](https://leetcode.com/discuss/study-guide/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions)
 
 ## Books & Long Reads
-- [Cosmic Python - DDD in Practice](https://www.cosmicpython.com/book/preface.html)
 - [Scalable Web Architecture and Distributed Systems](https://aosabook.org/en/v2/distsys.html)
 - [The Architecture of Open Source Applications](https://aosabook.org/en/)
 - [High Scalability - All Time Favourites](http://highscalability.squarespace.com/all-time-favorites/)
+- [Disaster Recovery of Workloads on AWS: Recovery in the Cloud](https://docs.aws.amazon.com/pdfs/whitepapers/latest/disaster-recovery-workloads-on-aws/disaster-recovery-workloads-on-aws.pdf)
 
 ## 🤝 Contributing
 Contributions are welcome! Please read our [contributing guidelines](CONTRIBUTING.md) before submitting pull requests.
