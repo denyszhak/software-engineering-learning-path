@@ -48,8 +48,10 @@ A comprehensive series explaining Python's internal workings:
 - [Slots Inheritance](https://stackoverflow.com/questions/1816483/how-does-inheritance-of-slots-in-subclasses-actually-work)
 - [Classic Coroutines](https://www.fluentpython.com/extra/classic-coroutines/)
 - [Preventing SQL Injection with Python](https://realpython.com/prevent-python-sql-injection/#using-query-parameters-in-sql)
+- [A Curious Course on Coroutines and Concurrency - David Beazley](https://www.dabeaz.com/coroutines/Coroutines.pdf)
 
 ### Python Books
+- [Fluent Python](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/)
 - [Cosmic Python - DDD in Practice](https://www.cosmicpython.com/book/preface.html)
 
 ## Go
@@ -127,6 +129,10 @@ A comprehensive series explaining Python's internal workings:
 - [Netflix: TimeSeries Data Abstraction Layer](https://netflixtechblog.com/introducing-netflix-timeseries-data-abstraction-layer-31552f6326f8)
 - [Netflix: Key-Value Data Abstraction Layer](https://netflixtechblog.com/introducing-netflixs-key-value-data-abstraction-layer-1ea8a0a11b30)
 - [DynamoDB Architecture Deep Dive](https://medium.com/swlh/architecture-of-amazons-dynamodb-and-why-its-performance-is-so-high-31d4274c3129)
+
+### Companies' Architectures
+- [Building Bluesky: a Distributed Social Network](https://newsletter.pragmaticengineer.com/p/bluesky)
+- [Scaling ChatGPT](https://newsletter.pragmaticengineer.com/p/scaling-chatgpt)
 
 ## System Design Interview Prep
 - [System Design Interview Questions 2024](https://www.educative.io/blog/system-design-interview-questions)
