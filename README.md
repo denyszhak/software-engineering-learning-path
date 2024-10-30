@@ -69,13 +69,14 @@ A comprehensive series explaining Python's internal workings:
 
 ## Databases
 
+### Basics
+- [Database Fundamentals](https://tontinton.com/posts/database-fundementals/?utm_source=tldrwebdev)
+- [Introduction to Transaction Isolation Levels](https://fauna.com/blog/introduction-to-transaction-isolation-levels)
+
 ### Postgres
 - [Window Functions](https://www.postgresql.org/docs/current/tutorial-window.html)
 - [Indexes](https://www.postgresql.org/docs/17/indexes.html)
-
-### Transaction Management
-- [Introduction to Transaction Isolation Levels](https://fauna.com/blog/introduction-to-transaction-isolation-levels)
-- [Transaction Isolation Levels (ODBC)](https://docs.microsoft.com/en-us/sql/odbc/reference/develop-app/transaction-isolation-levels)
+- [Transaction Isolation in Postgres](https://www.thenile.dev/blog/transaction-isolation-postgres?utm_source=tldrnewsletter)
 
 ## API Design
 - [Richardson Maturity Model (REST)](https://martinfowler.com/articles/richardsonMaturityModel.html)
@@ -107,6 +108,9 @@ A comprehensive series explaining Python's internal workings:
 
 ## Software Architecture
 
+### Basics
+- [Consistent Hashing Explained](https://systemdesign.one/consistent-hashing-explained/)
+
 ### Best Practices
 - [Data Structures & Algorithms in Practice](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
 - [Exponential Backoff And Jitter](https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/)
@@ -130,9 +134,17 @@ A comprehensive series explaining Python's internal workings:
 - [Netflix: Key-Value Data Abstraction Layer](https://netflixtechblog.com/introducing-netflixs-key-value-data-abstraction-layer-1ea8a0a11b30)
 - [DynamoDB Architecture Deep Dive](https://medium.com/swlh/architecture-of-amazons-dynamodb-and-why-its-performance-is-so-high-31d4274c3129)
 
+### Gen AI
+- [LLM Visualization](https://bbycroft.net/llm)
+
 ### Companies' Architectures
 - [Building Bluesky: a Distributed Social Network](https://newsletter.pragmaticengineer.com/p/bluesky)
 - [Scaling ChatGPT](https://newsletter.pragmaticengineer.com/p/scaling-chatgpt)
+- [Creating the Notion API](https://www.notion.so/blog/creating-the-notion-api)
+- [Herding elephants: Lessons learned from sharding Postgres at Notion](https://www.notion.so/blog/sharding-postgres-at-notion)
+- [The Great Re-shard: adding Postgres capacity (again) with zero downtime at Notion](https://www.notion.so/blog/the-great-re-shard)
+- [The data model behind Notion's flexibility](https://www.notion.so/blog/data-model-behind-notion)
+- [Transaction ID Wraparound in Postgres at Sentry](https://blog.sentry.io/transaction-id-wraparound-in-postgres/)
 
 ## System Design Interview Prep
 - [System Design Interview Questions 2024](https://www.educative.io/blog/system-design-interview-questions)
