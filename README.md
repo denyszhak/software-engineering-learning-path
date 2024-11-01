@@ -153,6 +153,8 @@ A comprehensive series explaining Python's internal workings:
 ### DevOps
 - [Linux Performance Analysis in 60,000 Milliseconds](https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)
 - [Docker Image Building Best Practices](https://docs.docker.com/get-started/workshop/09_image_best/)
+- [DORA Metrics](https://en.wikipedia.org/wiki/DevOps_Research_and_Assessment)
+- [Google SRE](https://sre.google/sre-book/table-of-contents/)
 
 ## Algorithms & Data Structures
 
