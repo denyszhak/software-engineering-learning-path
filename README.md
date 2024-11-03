@@ -136,6 +136,9 @@ A comprehensive series explaining Python's internal workings:
 
 ### Gen AI
 - [LLM Visualization](https://bbycroft.net/llm)
+- [Your AI Product Needs Evals](https://hamel.dev/blog/posts/evals/)
+- [Creating a LLM-as-a-Judge That Drives Business Results](https://hamel.dev/blog/posts/llm-judge/)
+- [What We’ve Learned From A Year of Building with LLMs](https://applied-llms.org/)
 
 ### Companies' Architectures
 - [Building Bluesky: a Distributed Social Network](https://newsletter.pragmaticengineer.com/p/bluesky)
