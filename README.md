@@ -54,6 +54,9 @@ A comprehensive series explaining Python's internal workings:
 - [Fluent Python](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/)
 - [Cosmic Python - DDD in Practice](https://www.cosmicpython.com/book/preface.html)
 
+## Python Blogs
+- [Artem Golubin](https://rushter.com/)
+
 ## Go
 
 ### Articles
@@ -80,6 +83,7 @@ A comprehensive series explaining Python's internal workings:
 
 ## API Design
 - [Richardson Maturity Model (REST)](https://martinfowler.com/articles/richardsonMaturityModel.html)
+- [Повний огляд REST: нюанси, поради, приклади](https://dou.ua/forums/topic/50364/?from=fptech)
 - [Introduction to GraphQL](https://graphql.org/learn/)
 - [Netflix: Learnings from Adopting GraphQL](https://netflixtechblog.com/our-learnings-from-adopting-graphql-f099de39ae5f)
 
